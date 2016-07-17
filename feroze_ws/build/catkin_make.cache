@@ -1,0 +1,2 @@
+foxbot
+-DCATKIN_DEVEL_PREFIX=/home/biomed/feroze_ws/devel -DCMAKE_INSTALL_PREFIX=/home/biomed/feroze_ws/install -G Unix Makefiles
