@@ -1,8 +1,0 @@
-prefix=/home/biomed/feroze_ws/devel
-
-Name: foxbot
-Description: Description of foxbot
-Version: 0.0.0
-Cflags: -I/home/biomed/feroze_ws/devel/include
-Libs: -L/home/biomed/feroze_ws/devel/lib 
-Requires: 

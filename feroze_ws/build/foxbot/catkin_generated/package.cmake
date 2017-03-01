@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "foxbot")
-set(foxbot_MAINTAINER "foxconn <foxconn@todo.todo>")
-set(foxbot_DEPRECATED "")
-set(foxbot_VERSION "0.0.0")
-set(foxbot_BUILD_DEPENDS "roscpp" "message_generation" "geometry_msgs" "rospy" "std_msgs")
-set(foxbot_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "geometry_msgs" "message_runtime")
-set(foxbot_BUILDTOOL_DEPENDS "catkin")
